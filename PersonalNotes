@@ -1,0 +1,41 @@
+yaourt
+xf86-video-intel mesa-libgl lib32-mesa…. Etc ~ or amd/nvidia drivers?
+xf86 -input-synaptics
+AUR: dmenu
+Networkmanager network-manager-applet
+Gnome-icon-theme
+Gnome-keyring
+Vim ~ ~/.vimrc config
+Chromium
+AUR: chromium-pepper-flash
+AUR: playerctl
+Gdm ~ sudo systemctl enable gdm
+AUR: i3-gaps
+Feh - config, make wallpaper folder/file
+AUR: compton-git
+Termite ~ mkdir .config/termite ~ (set rgba) ~ set as default fms in			 .config/i3/config
+Thunar
+Thunar-archive-plugin
+File-roller
+AUR: prezto-git ~ i.e. zsh ~ zsh (type this in terminal & go through install)
+Lxappearance ~ Noto Sans 11
+AUR: py3status ~ configure: 	>>>https://github.com/tomfulghum/dotfiles/blob/master/py3status/config
+>>> folder: py3status; in .config/i3/, then place a config file in py3status and		configure
+Htop
+AUR: gtk-theme-arc-git
+AUR: moka-icon-theme-git
+Rofi ~ mkdir in home: /Rofi/Xresources, copy stuff into 
+Gpicview
+AUR: i3lock-color-git
+Imagemagick
+Scrot
+AUR: i3lock-fancy-git
+gvfs
+Clang
+????????vim-pathogen
+
+APPEARANCE:
+System San Francisco Display 10 ~	put needed files in /.fonts/				github.com/supermarin/YosemiteSanFranciscoFont
+Fontawesome ~ same thing again: .ttf: 	  							 https://github.com/FortAwesome/Font-Awesome/releases	   -------> >>>>>>http://fontawesome.io/cheatsheet/
+Arc-Dark gtk theme >> yaourt gtk-theme-arc >>>>>>https://github.com/horst3180/arc-theme/releases/tag/20160331
+MOKA icon theme>>> https://snwh.org/moka/download
