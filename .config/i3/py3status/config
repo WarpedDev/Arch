@@ -1,0 +1,40 @@
+general {
+    output_format  = i3bar   
+    colors = true
+    color_bad = "#cc6666"
+    color_degraded = "#f0c674"
+    color_good = "#b5bd68"
+    interval = 5
+}
+
+order += "volume master"
+order += "wireless wlp2s0b1"
+order += "battery 0"
+order += "time"
+
+volume master {
+    format = "  %volume"
+    format_muted = "  %volume"
+}
+
+wireless wlp2s0b1 {
+    format_up = "  %essid"
+    format_down = "  offline"
+    on_click 1 = "exec termite -e nmtui"
+    on_click 3 = "exec termite -e nmtui"
+}
+
+battery 0 {
+    format = "%status  %percentage (%remaining)"
+    status_chr = ""
+    status_bat = ""
+    status_full = ""
+    low_threshold = 15
+    threshold_type = "percentage"
+    integer_battery_capacity = true
+    hide_seconds = true
+}
+
+time {
+    format = "  %m-%d-%Y %I:%M:%S" 
+}
