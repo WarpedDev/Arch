@@ -32,6 +32,8 @@ Scrot
 AUR: i3lock-fancy-git
 gvfs
 Clang
+Mingw-w64-gcc ~ i686
+
 
 APPEARANCE:
 System San Francisco Display 10 ~	put needed files in /.fonts/				github.com/supermarin/YosemiteSanFranciscoFont
