@@ -1,5 +1,6 @@
 yaourt
 xf86-video-intel mesa-libgl lib32-mesa…. Etc ~ or amd/nvidia drivers?
+>>>> https://wiki.archlinux.org/index.php/xorg#Driver_installation
 xf86 -input-synaptics
 AUR: dmenu
 Networkmanager network-manager-applet
