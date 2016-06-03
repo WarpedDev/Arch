@@ -34,6 +34,7 @@ AUR: i3lock-fancy-git
 gvfs
 Clang
 Mingw-w64-gcc ~ i686
+gparted
 
 
 APPEARANCE:
