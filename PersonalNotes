@@ -7,6 +7,7 @@ Networkmanager network-manager-applet
 >>>https://www.youtube.com/watch?v=MAi9DurTRQc
 Gnome-icon-theme
 Gnome-keyring
+I3 ~ .xinit ~ exec i3 ~ can now boot up without usb
 Vim ~ ~/.vimrc config
 Chromium
 AUR: chromium-pepper-flash
