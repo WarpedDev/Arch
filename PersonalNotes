@@ -21,6 +21,8 @@ Thunar
 Thunar-archive-plugin
 File-roller
 AUR: prezto-git ~ i.e. zsh ~ zsh (type this in terminal & go through install)
+>>> $ chsh -l
+>>> $ chsh -s full-path-to-shell-to-be-now-the-default-shell
 Lxappearance ~ Noto Sans 11
 AUR: py3status ~ configure: 	>>>https://github.com/tomfulghum/dotfiles/blob/master/py3status/config
 >>> folder: py3status; in .config/i3/, then place a config file in py3status and		configure
