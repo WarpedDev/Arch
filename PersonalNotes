@@ -36,6 +36,7 @@ Clang
 Mingw-w64-gcc ~ i686
 gparted
 dosfstools
+hfsprogs 
 
 
 APPEARANCE:
