@@ -4,6 +4,7 @@ xf86-video-intel mesa-libgl lib32-mesa…. Etc ~ or amd/nvidia drivers?
 xf86 -input-synaptics
 AUR: dmenu
 Networkmanager network-manager-applet
+>>>https://www.youtube.com/watch?v=MAi9DurTRQc
 Gnome-icon-theme
 Gnome-keyring
 Vim ~ ~/.vimrc config
