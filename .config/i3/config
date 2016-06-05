@@ -191,6 +191,9 @@ bar {
 	}
 }
 
+# Docking Station Setup (IMPORTANT: only have this command uncommented if using docking station)
+exec --no-startup-id "xrandr --output LVDS --off"
+
 # Rofi (Program Launcher)
 bindsym $mod+d exec --no-startup-id rofi -show run -bw 2 -lines 10 -width 500 -line-margin 5 -font "System San Francisco Display 10" -separator-style solid -hide-scrollbar
 
