@@ -42,6 +42,9 @@ gparted
 dosfstools
 hfsprogs 
 
+COMMANDS NEEDED TO BE EXECUTED:
+sudo systemctl mask systemd-journald.service 
+
 
 APPEARANCE:
 System San Francisco Display 10 ~	put needed files in /.fonts/				github.com/supermarin/YosemiteSanFranciscoFont
