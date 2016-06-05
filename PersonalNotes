@@ -43,7 +43,8 @@ dosfstools
 hfsprogs 
 
 COMMANDS NEEDED TO BE EXECUTED:
-sudo systemctl mask systemd-journald.service 
+sudo vim etc/modprobe.d/blacklist.conf
+>>put this in file>> blacklist sp5100_tco
 
 
 APPEARANCE:
